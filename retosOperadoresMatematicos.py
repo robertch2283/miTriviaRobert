@@ -18,3 +18,4 @@ print("\n Operadores matematicos- raiz cuadrada de la suma de la potencia de los
 f = int(input("Ingrese el primer numero: "))
 g = int(input("Ingrese el segundo numero: "))
 print((f**2+ g**2)**(1/2))
+#######
